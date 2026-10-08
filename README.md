@@ -54,6 +54,8 @@ If the API is unavailable, the game uses `hangman` as the default word.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+---
+
 <div align="center">
 
 ### 💻 Code. Learn. Build. Repeat.
